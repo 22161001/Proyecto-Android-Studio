@@ -18,6 +18,7 @@ La aplicación comienza con una pantalla de inicio de sesión simple.
 
 ![Imagen de WhatsApp 2025-06-12 a las 10 17 42_05d1a271](https://github.com/user-attachments/assets/75004c69-56d6-4a53-9950-962a019b634c)
 
+---
 ### Ejercicio 1: Check List con Botón y Etiqueta
 
 - El usuario selecciona uno o más elementos de una **lista con checkboxes**.
