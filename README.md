@@ -133,11 +133,11 @@ La aplicación comienza con una pantalla de inicio de sesión simple.
 
 ---
 
-## ✨ Autores
+## Creditos del Equipo:
 
-- Nombre: Antonio Contreras Alan
-- Nombre: Cruz Gallegos Julio Gabriel
-- Nombre: Nuñez Reyes Jorge Emilio
+- Antonio Contreras Alan
+- Cruz Gallegos Julio Gabriel
+- Nuñez Reyes Jorge Emilio
 
 
 ---
