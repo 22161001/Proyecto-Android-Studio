@@ -1,6 +1,6 @@
 # Proyecto-Android-Studio
 
-
+-----
 ## Login (Sin Base de Datos)
 
 La aplicación comienza con una pantalla de inicio de sesión simple.
