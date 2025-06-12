@@ -8,7 +8,7 @@ La aplicación comienza con una pantalla de inicio de sesión simple.
 - **Funcionamiento**: El usuario ingresa un nombre de usuario y contraseña.
 - **Validación**: Se validan contra valores predefinidos en el código (hardcoded).
 - **Sin almacenamiento**: No se guarda ni recupera información desde ninguna base de datos.
-- 
+  
 ![Imagen de WhatsApp 2025-06-12 a las 10 17 42_cb762e88](https://github.com/user-attachments/assets/e70cd88a-6fea-4b75-bb3f-2fce1d8caf75)
 
 
@@ -134,8 +134,8 @@ La aplicación comienza con una pantalla de inicio de sesión simple.
 
 ## ✨ Autores
 
-- Nombre:Antonio Contreras Alan
-- Nombre:
+- Nombre: Antonio Contreras Alan
+- Nombre: Cruz Gallegos Julio Gabriel
 - Nombre: Nuñez Reyes Jorge Emilio
 
 
